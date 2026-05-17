@@ -15,6 +15,8 @@ I build practical systems around agent infrastructure, local Codex workflows, SD
 
 Full catalog: https://x2.brucelu.top/products/?source=github-profile
 
+Questions before checkout: https://x2.brucelu.top/products/contact/?source=github-profile
+
 ## Public surfaces
 
 - SDR-Zynq landing: https://github.com/lzbgt/sdr-cpr
