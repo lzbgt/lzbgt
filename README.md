@@ -6,7 +6,7 @@ I build practical systems around agent infrastructure, local Codex workflows, SD
 
 Current paid review and access paths are collected here:
 
-- Product catalog: https://x2.brucelu.top/products/
+- Product catalog: https://x2.brucelu.top/products/?source=github-profile
 - SDR-Zynq Integration Review: https://x2.brucelu.top/sdr/
 - Agent-C Architecture Review: https://x2.brucelu.top/agent-c/
 - CodexW Founding Access: https://x2.brucelu.top/codexw/
