@@ -6,6 +6,7 @@ I build practical systems around agent infrastructure, local Codex workflows, SD
 
 | Offer | Price | Best for | Sample | Checkout |
 | --- | ---: | --- | --- | --- |
+| Edge Camera RTSP Integration Review | $199 | Linux IP-camera ingest, YOLO/RTMP, Docker, queueing, playback reliability | [sample](https://x2.brucelu.top/edgecam/sample/) | [buy](https://x2.brucelu.top/edgecam/checkout/?source=github-profile) |
 | SDR-Zynq Integration Review | $249 | AD936x, PlutoSDR, Zynq, IIO, DMA, HDL/software integration blockers | [sample](https://x2.brucelu.top/sdr/sample/) | [buy](https://x2.brucelu.top/sdr/checkout/?source=github-profile) |
 | Agent-C Architecture Review | $149 | Production agent runtimes, approval flows, audit logs, durable workflow design | [sample](https://x2.brucelu.top/agent-c/sample/) | [buy](https://x2.brucelu.top/agent-c/checkout/?source=github-profile) |
 | CodexW Founding Access | $49 | Local Codex/Codex CLI operators who want terminal workflow setup support | [sample](https://x2.brucelu.top/codexw/sample/) | [buy](https://x2.brucelu.top/codexw/checkout/?source=github-profile) |
