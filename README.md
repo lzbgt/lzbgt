@@ -1,5 +1,8 @@
 # Bruce Lu / lzbgt
 
+
+[![Paid_Offers](https://img.shields.io/badge/Paid_Offers-brightgreen)](https://x2.brucelu.top/products/?source=github-profile-badge) [![Ask_First](https://img.shields.io/badge/Ask_First-blue)](https://x2.brucelu.top/products/contact/?source=github-profile-badge)
+
 I build practical systems around agent infrastructure, local Codex workflows, SDR/Zynq research, and Polymarket analytics.
 
 ## Paid engineering offers
