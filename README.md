@@ -4,13 +4,14 @@ I build practical systems around agent infrastructure, local Codex workflows, SD
 
 ## Paid engineering offers
 
-Current paid review and access paths are collected here:
+| Offer | Price | Best for | Sample | Checkout |
+| --- | ---: | --- | --- | --- |
+| SDR-Zynq Integration Review | $249 | AD936x, PlutoSDR, Zynq, IIO, DMA, HDL/software integration blockers | [sample](https://x2.brucelu.top/sdr/sample/) | [buy](https://x2.brucelu.top/sdr/checkout/?source=github-profile) |
+| Agent-C Architecture Review | $149 | Production agent runtimes, approval flows, audit logs, durable workflow design | [sample](https://x2.brucelu.top/agent-c/sample/) | [buy](https://x2.brucelu.top/agent-c/checkout/?source=github-profile) |
+| CodexW Founding Access | $49 | Local Codex/Codex CLI operators who want terminal workflow setup support | [sample](https://x2.brucelu.top/codexw/sample/) | [buy](https://x2.brucelu.top/codexw/checkout/?source=github-profile) |
+| PolyFollow Founding Access | $49 | Polymarket wallet intelligence, leaderboards, watchlists, and alerts | [proof](https://x2.brucelu.top/polyfollow/top-wallets/) | [buy](https://x2.brucelu.top/polyfollow/checkout/?source=github-profile) |
 
-- Product catalog: https://x2.brucelu.top/products/?source=github-profile
-- SDR-Zynq Integration Review: https://x2.brucelu.top/sdr/
-- Agent-C Architecture Review: https://x2.brucelu.top/agent-c/
-- CodexW Founding Access: https://x2.brucelu.top/codexw/
-- PolyFollow Founding Access: https://x2.brucelu.top/polyfollow/
+Full catalog: https://x2.brucelu.top/products/?source=github-profile
 
 ## Public surfaces
 
